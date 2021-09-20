@@ -11,4 +11,7 @@ In the multiple-line chart, we are able to compare total fares by area type over
 ](https://github.com/MasterAnalysis/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png)
 
 ## Summary
-Since the fare amount by area type seems to increase during the month of April in the suburb area, the Pyber should study what causes this increase, especially because the fare amount decreases for other types of areas . 
+Since the fare amount by area type seems to increase during the month of April in the suburb area, the Pyber should study what causes this increase, especially because the fare amount decreases for other types of areas.
+
+At Last the average amount each ride shows a substantial increase from more populated areas to less populated areas . However, the average amount each drive increases drastically when following the same pattern . This indicates that the number of drivers may be exponentially lower than expected. The company may want to allocate more drivers to rural areas to capitalize on its profits.
+
